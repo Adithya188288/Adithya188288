@@ -18,4 +18,4 @@ React · TypeScript · JavaScript · Node.js · Cloudflare Workers · D1 · R2
 
 ## Find me
 
-[codezenk.me](https://codezenk.me) · [X @codezenk](https://x.com/codezenk)
+[codezenk.me](https://codezenk.me) · [X @code_zenk](https://x.com/code_zenk)
